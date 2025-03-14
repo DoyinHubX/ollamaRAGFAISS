@@ -6,4 +6,6 @@ However, despite their remarkable capabilities, many LLMs come with certain limi
 
 This article explores how to harness the power of LLMs to build a more robust, privacy-focused Retrieval-Augmented Generation (RAG) system that operates entirely offline. By creating a local solution, you can ensure that your documents and queries remain as private as possible while maintaining the advanced capabilities of modern LLMs.
 
-📖 Read the full guide here: [https://medium.com/p/de8302c7a676/edit]
+📖 Read the full guide here: [https://medium.com/@doyinelugbadebo/your-first-local-rag-system-de8302c7a676]
+ 
+For collaborations, feel free to reach out via email: eslintpurity@gmail.com. I'd love to connect!
